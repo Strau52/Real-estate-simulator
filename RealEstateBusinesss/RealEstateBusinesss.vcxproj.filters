@@ -15,8 +15,52 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RealEstateBusinesss.cpp">
+    <ClCompile Include="Alberlet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CsaladiApartman.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Garazs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hazmester.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tarsashaz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lakas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RealEstateBusiness.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Alberlet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CsaladiApartman.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Garazs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hazmester.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IBerelheto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IIngatlan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tarsashaz.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lakas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
